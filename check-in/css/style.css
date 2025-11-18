@@ -3,15 +3,16 @@ h1 {
     text-align: center;
 }
 body { 
-    background-color;
+    background-color: gray;
 }
 img { 
     display: block; 
     margin: 0px; 
-    border: thick solid gray;
-    background-color: darkgray;
+    border: thick solid darkblue;
+    background-color: darkgrey;
     width: 300px;
     padding: 30px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 10px;
 }
